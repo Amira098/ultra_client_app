@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "777608540056",
+    "firebase_url": "https://ultra-11c3d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ultra-11c3d",
+    "storage_bucket": "ultra-11c3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777608540056:android:ce3ebc7a0927b7aafe05ed",
+        "android_client_info": {
+          "package_name": "com.example.ultra_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfHpHBvHXpNXrnqkIjZdCCTZC2DBWDfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
